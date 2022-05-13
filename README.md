@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aayush
+- 👋 Hi,
 - 👀 I’m interested in ReactJS, Django, Firebase and DSA.
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on learing together
